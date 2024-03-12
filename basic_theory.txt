@@ -1,0 +1,88 @@
+Thirds and Fifths
+	- Major Third (4 semitones)
+	- Minor Third (3 semitones) 
+	- Perfect Fifth (7 semitone) 
+	- Diminished Fifth (6 semitone)
+	- Augmented Fifth (8 semitones
+Chords
+	- Major (Uppercase roman numeral)
+		- Major Third, Perfect Fifth
+	- Minor (Lowercase roman numeral)
+		- Minor Third, Perfect Fifth
+	- Diminished (Dim or a circle)
+		- Minor Third, Diminished Fifth (2 minor third)
+	- Augmented 
+		- Major Third, Augmented Fifth  (2 major third)
+Scales
+	Major
+		- I II III IV V V VII
+		- 1 2 3 4 5 6 7 
+	Minor 
+		- Melodic (ascending) 
+			- 1 2 b3 4 5 6 7 
+		- Natural (descending) - Relative major = 3 semitones above the Relative Minor 
+			- 1 2 b3 4 5 b6 b7 
+		- Harmonic
+			- 1 2 b3 4 5 b6 7 
+	* can switch key between major vs relative minor by harmonising up down a third for melody line 
+
+******
+C Db D Eb E F F# G Ab A Bb B
+Father Can Go Down After Eating Breakfast
+F, C, G, D, A, E, B (sharps)
+	- G: F
+	- D: FC
+	- A: FCG
+	- E: FCGD
+	- B: FCGDA
+	- F#: FCGDAE
+Billy Eats A Dog, Goldfish, Cat and Fox
+B, E, A, D, G, C, F (flats)
+	- F: B 
+	- Bb: BE 
+	- Eb: BEA 
+	- Ab: BEAD 
+	- Db: BEADG
+
+
+******
+
+Chords of different Scales 
+	Major （Ionnian)
+		-  1  -  2  -  3  -  4  -  5  -  6  -  7
+		- Maj - Min - Min - Maj - Maj - Min - Dim
+	- Melodic 
+		-  1  -  2  -  b3 -  4  -  5  -  6  -  7
+		- Min - Min - Aug - Maj - Maj - Dim - Dim
+	- Natural (Aeolian)
+		-  1  -  2  -  b3 -  4  -  5  -  b6 -  b7 
+		- Min - Dim - Maj - Min - Min - Maj - Maj
+		- Hence V7 and VIIdim7 are part of Harmonic scale
+	- Harmonic (raised the 7th)
+		-  1  -  2  -  b3 -  4  -  5  -  b6 -  7 
+		- Min - Dim - Aug - Min - Maj - Maj - Dim -
+		
+	*** third of the V chord is the leading tone of the key
+	
+Seventh
+	- Major 7            : 1 3  5  7 
+	- Dominant 7         : 1 3  5  b7
+	- Minor 7            : 1 b3 5  b7
+	- Half Diminished 7  : 1 b3 b5 b7   （m7b5）
+	- Diminished 7       : 1 b3 b5 bb7
+	- Augmented 7        : 1 b3 #5 b7
+	- Augmented Maj 7    : 1 b3 #5 7
+	- Minor Major 7      : 1 b3 5  7 
+
+Sus Chord 
+	- sus 4 - replace 3 with 4  
+	- sus2 / sus9 - replace 3 with 2
+	- maintains perfecct 5th between root and 5th
+	
+MODES 
+Dorian     1 -  2 - b3 -  4  -  5  -  6 - b7 - 8
+Phrygian   1 - b2 - b3 -  4  -  5  - b6 - b7 - 8
+Lydian     1 -  2 -  3 - #4  -  5  -  6 -  7 - 8
+Mixolydian 1 -  2 -  3 -  4  -  5  -  6 - b7 - 8
+Aeolian    1 -  2 - b3 -  4  -  5  - b6 - b7 - 8
+Lorian     1 - b2 - b3 -  4  - b5  - b6 - b7  -8
