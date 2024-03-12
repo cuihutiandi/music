@@ -1,0 +1,36 @@
+Diatonic Chord Progression
+	- Cadence
+		- Perfect    : V - I
+		- Plagal     : IV - 1
+		- Imperfect  : I / II / IV / VI - V 
+		- Interrupted: V - VI
+	- Major (skip 7)
+		- I - x - x - IV/V 
+	- Minor 
+		- use 1 7 6 
+			- i - VII - VI 
+			- VI - i - VII - i 
+		- use 1 7 6 + 3 (careful to make i tonal centre)
+			- i - VI - III - VII (SFCP)
+		- use the v or V7 (switch to harmonic)
+			- i - VI - iv - V7
+			- i - VII - VI - V7 (andalusian cadence)
+			- i - III - iv - VI -> i - III - VI - V7 
+		- use the ii dim or ii m7b5 
+			- ii - V7 - i 
+
+Borrowed Chord (take chords from relative key or mode, with same tonal centre)
+	- Minor key
+		- Picardy Third: On the tonic chord, raise the third to change from minor chord to major 
+	- Major key
+		- bVI is common because it is from the aeolian scale 
+		- bVII is from mixodylian scale 
+		- I - bVII - bVI - bVII
+		- I - bVI - IV
+		- bVII - I instead of V - I (to a extent bII bIII bVI) 
+	
+Motifs / Riffs / Ostinato
+
+
+Rhythms 
+	- Tresillo 
